@@ -14,9 +14,9 @@ Reinforcement Learning with Open AI Gym's environment and Keras
 
 **For Linux & Pip**
 1. Just install the following packages:
-  $ pip install gym
-  $ pip install keras
-  $ pip install matplotlib
+  - $ pip install gym
+  - $ pip install keras
+  - $ pip install matplotlib
   $ pip install numpy
   $ pip install jupyter 
 2. Open jupyter:
