@@ -5,11 +5,11 @@ Reinforcement Learning with Open AI Gym's environment and Keras
 1. Open a terminal
 2. cd into the cloned directory
 3. Create a new environment using the environment.yml:
-  $ conda env create -f environment.yml
+  - $ conda env create -f environment.yml
 4. Active the environment:
-  $ source activate gym-keras
+  - $ source activate gym-keras
 5. Open jupyter:
-  $ jupyter notebook
+  - $ jupyter notebook
 6. Enjoy!
 
 **For Linux & Pip**
@@ -17,9 +17,9 @@ Reinforcement Learning with Open AI Gym's environment and Keras
   - $ pip install gym
   - $ pip install keras
   - $ pip install matplotlib
-  $ pip install numpy
-  $ pip install jupyter 
+  - $ pip install numpy
+  - $ pip install jupyter 
 2. Open jupyter:
-  $ jupyter notebook
+  - $ jupyter notebook
 3. Enjoy!
   
