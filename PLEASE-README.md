@@ -18,8 +18,9 @@ Reinforcement Learning with Open AI Gym's environment and Keras
   - $ pip install keras
   - $ pip install matplotlib
   - $ pip install numpy
-  - $ pip install jupyter 
-2. Open jupyter:
+  - $ pip install jupyter
+2. cd into the cloned directory
+3. Open jupyter:
   - $ jupyter notebook
 3. Enjoy!
   
