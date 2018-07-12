@@ -23,5 +23,13 @@ Reinforcement Learning with Open AI Gym's environment and Keras
 2. cd into the cloned directory
 3. Open jupyter:
   - $ jupyter notebook
-3. Enjoy!
-  
+3. Enjoy!  
+
+**For Docker**
+1. Given you have Docker installed:
+  - $ docker pull jabusch24/force-keras
+  - $ docker run -it --rm --user root -p 8888:8888 -e GRANT_SUDO=yes jabusch24/force-keras
+2. In your browser, go to:
+  - localhost:8888
+3. From the terminal you ran the "run" command from, copy the token in the link and insert it into the jupyter browser window
+4. Enjoy!
